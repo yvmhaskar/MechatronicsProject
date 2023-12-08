@@ -34,3 +34,15 @@ File Descriptions:
 
     Filename: state_typedef.ctl
         This is the type def variable used to control the changing states
+
+CAD Descriptions:
+
+    Filename: pololumotormount.SLDPRT
+        This part is used to mount the motor to the Actuator Mount
+
+    Filename: ActuatorMount_SweepBased_YM_v3.SLDPRT
+        This part curves around the waist and holds the actuator
+
+    Filename: LowerBackInterface_withCurvature_MW.SLDPRT
+        This part connects the Actuator Mount on each side
+        
