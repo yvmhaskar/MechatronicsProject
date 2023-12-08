@@ -46,3 +46,6 @@ CAD Descriptions:
     Filename: LowerBackInterface_withCurvature_MW.SLDPRT
         This part connects the Actuator Mount on each side
         
+    Filename: thighstrut.SLDPRT
+        This part is mounted on the actuator and also holds the accelerometer
+        
