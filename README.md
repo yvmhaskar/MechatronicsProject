@@ -48,4 +48,7 @@ CAD Descriptions:
         
     Filename: thighstrut.SLDPRT
         This part is mounted on the actuator and also holds the accelerometer
+
+    Filename: IMU with curved handles.SLDPRT
+        This part is mounted on the leg with a velcro-strap and holds the GYRO PMOD 
         
