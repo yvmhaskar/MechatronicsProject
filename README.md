@@ -53,5 +53,19 @@ CAD Descriptions:
         This part is mounted on the actuator and also holds the accelerometer
 
     Filename: IMU with curved handles.SLDPRT
-        This part is mounted on the leg with a velcro-strap and holds the GYRO PMOD 
+        This part is mounted on the leg with a velcro-strap and holds the GYRO PMOD
+
+Requirements:
+
+| Category | No. | Threshold/Objective | Requirement | Value | Unit |
+| --- | --- | --- | --- | --- | --- |
+| Output | 1 | T | --- | --- | --- |
+| Output | 2 | T | --- | --- | --- |
+| Data Capturing | 3 | T | --- | --- | --- |
+| ^ | 4 | T | --- | --- | --- |
+| Control | 5 | T | --- | --- | --- |
+| Control | 6 | T | --- | --- | --- |
+| Weight/Dimensions | 7 | T | --- | --- | --- |
+| Power | 9 | T | --- | --- | --- |
+| Power | 10 | T | --- | --- | --- |
         
