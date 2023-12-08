@@ -1,6 +1,6 @@
 # MechatronicsProject
 Project Description: Hip Exoskeleton Final Project for Introduction to Mechatronics
-
+https://github.com/yvmhaskar/MechatronicsProject
 This project can be implemented on a hip exoskeleton to conduct state estimation and positional control.
 This project takes in sensor values and calculates the hip angular displacement, velocity and checks for heel strikes.
 Based on the hip joint angles in each stride, the machine will change states between Level Walking, Incline and Decline.
