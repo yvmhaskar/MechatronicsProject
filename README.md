@@ -22,4 +22,14 @@ File Descriptions:
     Filename: HipExo.vi
         This is the main file containing majority of the code and coordination required to conduct state estimation and positional control.
 
-    Filename:  
+    Filename: GYRO_Read_Plot.vi
+        This SubVI configures the Gyroscope PMOD, reads and plots the output data.
+
+    Filename: Interrupts.vi
+        This SubVI looks out for any interrupts inputted by the various Pmods.
+
+    Filename: ACL_Read_Plot.vi
+        This SubVI configures the Accelerometer PMOD, reads and plots the output data.
+
+    Filename: state_typedef.ctl
+        This is the type def variable used to control the changing states
