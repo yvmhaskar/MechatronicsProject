@@ -1,5 +1,6 @@
 # MechatronicsProject
 Project Description: Hip Exoskeleton Final Project for Introduction to Mechatronics
+
     This project can be implemented on a hip exoskeleton to conduct state estimation and positional control.
     
     Sensors: Gyroscope PMOD - Placed directly on the leg using a Sensor Mount
