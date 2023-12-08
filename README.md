@@ -1,8 +1,11 @@
 # MechatronicsProject
 Project Description: Hip Exoskeleton Final Project for Introduction to Mechatronics
 
-    This project can be implemented on a hip exoskeleton to conduct state estimation and positional control.
-    
+This project can be implemented on a hip exoskeleton to conduct state estimation and positional control.
+This project takes in sensor values and calculates the hip angular displacement, velocity and checks for heel strikes.
+Based on the hip joint angles in each stride, the machine will change states between Level Walking, Incline and Decline.
+It will also provide positional control to a thigh strut using the hip joint angles.
+
     Sensors: Gyroscope PMOD - Placed directly on the leg using a Sensor Mount
                             - Used to obtain gyroscope data which is used to calculate hip angular displacement and velocity
                             
