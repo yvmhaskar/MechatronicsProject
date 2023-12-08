@@ -15,8 +15,11 @@ Project Description: Hip Exoskeleton Final Project for Introduction to Mechatron
             LEDs - Attached on the breadboard on top of the myRio controller
                  - Displays the current state (Level-walking, Incline, Decline)
 
-Filename: Final_Project_HipExo.lvproj
-    This should be used to begin/open the Final Project
+File Descriptions:
+    Filename: Final_Project_HipExo.lvproj
+        This should be used to begin/open the Final Project
 
-Filename: HipExo.vi
-    This is the main file containing majority of the code and coordination required to conduct state estimation and positional control.
+    Filename: HipExo.vi
+        This is the main file containing majority of the code and coordination required to conduct state estimation and positional control.
+
+    Filename:  
