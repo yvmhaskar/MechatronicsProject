@@ -16,6 +16,7 @@ Project Description: Hip Exoskeleton Final Project for Introduction to Mechatron
                  - Displays the current state (Level-walking, Incline, Decline)
 
 File Descriptions:
+
     Filename: Final_Project_HipExo.lvproj
         This should be used to begin/open the Final Project
 
